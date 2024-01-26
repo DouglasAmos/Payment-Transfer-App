@@ -1,3 +1,6 @@
+This is the second capstone completed in the beginning of December 2023.  This app is a money-transfer application where a user can sign in and transfer "TE" bucks to another user and can recieve funds from another user.  This project focused on the server side of a web application where we used an SQL database and accessed the database using Java data access objects.  Below are the instructions for the project. 
+
+
 # Module 2 Capstone - TEnmo
 
 Congratulations—you've landed a job with TEnmo, whose product is an online payment service for transferring "TE bucks" between friends. However, they don't have a product yet. You've been tasked with finalizing the server side of the application: a database and a RESTful API server.
